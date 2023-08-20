@@ -93,9 +93,9 @@ comments:
   # Giscus options › https://giscus.app
   giscus:
     repo: "DavidVasilev1/CSApages" # <gh-username>/<repo>
-    repo_id: "R_kgDOKI4k7A"
+    repo_id: "R_kgDOKJZM5g"
     category: "Comments"
-    category_id: "DIC_kwDOKI4k7M4CYuen"
+    category_id: "DIC_kwDOKJZM5s4CYvHX"
     mapping: "og:title" # optional, default to 'pathname'
     input_position: "top" # optional, default to 'bottom'
     lang: "en" # optional, default to the value of `site.lang`
