@@ -24,6 +24,7 @@ package-lock.json
 .stylelintrc.json
 .husky
 .versionrc.json
+.editorconfig
 
 # Misc
 # assets/js/dist
