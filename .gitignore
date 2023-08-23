@@ -19,12 +19,7 @@ package-lock.json
 .vscode
 
 # Randoms
-.browserslistrc
-.commitlintrc.json
-.stylelintrc.json
-.husky
-.versionrc.json
-.editorconfig
+
 
 # Misc
 # assets/js/dist
@@ -33,4 +28,3 @@ package-lock.json
 2023-08-21-linux_shell.md
 2023-08-21-java-hello.md
 2023-08-17-tools.md
-
